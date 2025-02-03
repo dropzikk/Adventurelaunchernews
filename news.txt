@@ -1,1 +1,1 @@
-{ID: 1=(Image: "https://i.postimg.cc/ZRLs9WPC/image.jpg",Text: "Пример текста", Date: "03-02-2025"),ID: 2=(Image: "https://i.imgur.com/4Jy6EJA.jpeg",Text: "Пример текста", Date: "03-02-2025")}
+{ID: 1=(Image: "https://i.imgur.com/4Jy6EJA.jpeg",Text: "Пример текста", Date: "03-02-2025"),ID: 2=(Image: "https://i.imgur.com/4Jy6EJA.jpeg",Text: "Пример текста", Date: "03-02-2025")}
