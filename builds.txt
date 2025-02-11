@@ -1,0 +1,3 @@
+{ID=1:(image="https://i.imgur.com/HyPk11p.png",downloadurl="https://github.com/dropzikk/Wildlandclient/archive/refs/heads/main.zip",versionurl="https://raw.githubusercontent.com/dropzikk/Adventurelaunchernews/main/version_wildland.txt",name="WildLand | 1.19.2 FABRIC",description="Сборка Wildland объединяет лучшие моды: реализм, 
+строительство, исследование и передовые технологии.
+",date="Дата создания:10.02.2025",totalbytesurl="https://raw.githubusercontent.com/dropzikk/Adventurelaunchernews/main/wildlandbytes.txt")}
